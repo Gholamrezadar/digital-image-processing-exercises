@@ -1,0 +1,70 @@
+File name: inputs\\P5\\ein.png
+
+points[1,0,:] = [143, 175] # l_eye a
+points[1,1,:] = [233, 177] # r_eye a
+points[1,2,:] = [193, 249] # nose_a
+
+points[0,0,:] = [143, 175] # l_eye b
+points[0,1,:] = [233, 177] # r_eye b
+points[0,2,:] = [193, 249] # nose_b
+----------------------------------------
+File name: inputs\\P5\\trump.png
+
+points[1,0,:] = [347, 269] # l_eye a
+points[1,1,:] = [471, 265] # r_eye a
+points[1,2,:] = [417, 365] # nose_a
+
+points[0,0,:] = [347, 269] # l_eye b
+points[0,1,:] = [471, 265] # r_eye b
+points[0,2,:] = [417, 365] # nose_b
+----------------------------------------
+File name: inputs\\P5\\trump.png
+
+points[1,0,:] = [345, 267] # l_eye a
+points[1,1,:] = [471, 265] # r_eye a
+points[1,2,:] = [415, 363] # nose_a
+
+points[0,0,:] = [345, 267] # l_eye b
+points[0,1,:] = [471, 265] # r_eye b
+points[0,2,:] = [415, 363] # nose_b
+----------------------------------------
+File name: inputs\P5\ein.png
+
+points[1,0,:] = [148, 179] # l_eye a
+points[1,1,:] = [234, 177] # r_eye a
+points[1,2,:] = [194, 251] # nose_a
+
+points[0,0,:] = [148, 179] # l_eye b
+points[0,1,:] = [234, 177] # r_eye b
+points[0,2,:] = [194, 251] # nose_b
+----------------------------------------
+File name: inputs\P5\ein.png
+
+points[1,0,:] = [145, 173] # l_eye a
+points[1,1,:] = [233, 177] # r_eye a
+points[1,2,:] = [195, 247] # nose_a
+
+points[0,0,:] = [145, 173] # l_eye b
+points[0,1,:] = [233, 177] # r_eye b
+points[0,2,:] = [195, 247] # nose_b
+----------------------------------------
+File name: inputs\P5\trump.png
+
+points[1,0,:] = [349, 268] # l_eye a
+points[1,1,:] = [473, 266] # r_eye a
+points[1,2,:] = [411, 398] # nose_a
+
+points[0,0,:] = [349, 268] # l_eye b
+points[0,1,:] = [473, 266] # r_eye b
+points[0,2,:] = [411, 398] # nose_b
+----------------------------------------
+File name: inputs\P5\biden.png
+
+points[1,0,:] = [383, 248] # l_eye a
+points[1,1,:] = [483, 250] # r_eye a
+points[1,2,:] = [427, 364] # nose_a
+
+points[0,0,:] = [383, 248] # l_eye b
+points[0,1,:] = [483, 250] # r_eye b
+points[0,2,:] = [427, 364] # nose_b
+----------------------------------------
