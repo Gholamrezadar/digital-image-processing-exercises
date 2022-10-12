@@ -89,8 +89,8 @@ By Gholamreza Dar Spring/Summer 2022
 
   * Restore old images using a variety of image processing techniques
 
-<img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%204/results/P1/img_5_processed_light.png?raw=true"/>
-<img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%204/results/P1/img_1_prcssd.png?raw=true"/>
+<img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%204/results/P1/img_5_processed_light.png?raw=true"/>
+<img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%204/results/P1/img_1_prcssd.png?raw=true"/>
 
 - Image Restoration and Warping
 
