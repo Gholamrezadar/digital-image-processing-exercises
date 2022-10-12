@@ -7,6 +7,8 @@ By Gholamreza Dar Spring/Summer 2022
 - Table of Contents
   * [Exercise 1](#exercise-1)
   * [Exercise 2](#exercise-2)
+  * [Exercise 3](#exercise-3)
+  * [Exercise 4](#exercise-4)
 
 ## Exercise 1
 
@@ -80,3 +82,24 @@ By Gholamreza Dar Spring/Summer 2022
 <img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%203/results/P5_results/__2.png?raw=true"/>
 <img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%203/results/P5_results/__5.png?raw=true"/>
 <img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%203/results/P5_results/__9.png?raw=true"/>
+
+## Exercise 4
+
+- Image Restoration
+
+  * Restore old images using a variety of image processing techniques
+
+<img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%204/results/P1/img_5_processed_light.png?raw=true"/>
+<img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%204/results/P1/img_1_prcssd.png?raw=true"/>
+
+- Image Restoration and Warping
+
+  * Restore old images using a variety of image processing techniques
+
+<img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%204/results/P3/img_2_enhanced.png?raw=true"/>
+<img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%204/results/P3/img_1_enhanced.png?raw=true"/>
+
+
+- Image Morphing
+  * Morph an image into another using delaunay triangulation and linear interpolation
+ <img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%204/results/P4/Morphing_poster.png?raw=true"/>
