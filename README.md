@@ -55,3 +55,28 @@ By Gholamreza Dar Spring/Summer 2022
   * Resize Images without losing important information [link](https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%202/results/P5_results/tower_removal.mp4)
 
 <!-- ![putin video](https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%202/results/P5_results/Remove%20Putin%20low.mp4) -->
+
+## Exercise 3
+
+- Fourier Analysis
+
+  * Match the shapes present in the images and patterns in their fourier magnitude image
+
+<img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%203/results/P3_Results/painting_8_fourier_analysis.png?raw=true"/>
+
+<img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%203/results/P3_Results/painting_7_fourier_analysis.png?raw=true"/>
+
+- Fourier Analysis continued
+
+  * Don't remember but pretty
+
+<img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%203/results/P4_Results/diagonal_grid_fourier_analysis_ycbcr.png?raw=true"/>
+<img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%203/results/P4_Results/dot_grid_fourier_analysis_rgb.png?raw=true"/>
+
+- Hybrid Image
+
+  * Details of one image on top of coarse information of another
+
+<img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%203/results/P5_results/__2.png?raw=true"/>
+<img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%203/results/P5_results/__5.png?raw=true"/>
+<img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%203/results/P5_results/__9.png?raw=true"/>
