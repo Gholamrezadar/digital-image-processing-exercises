@@ -47,3 +47,11 @@ By Gholamreza Dar Spring/Summer 2022
   * Create posterized(!) posters using bilateral filtering and thresholding.
 
 <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%202/results/P4_results/zelensky_poster_with_text.png?raw=true"/>
+
+<img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%202/results/P4_results/putin_poster_with_text.png?raw=true"/>
+
+- Seam Carving
+  * Remove Objects and people from images [link](https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%202/results/P5_results/Remove%20Putin%20low.mp4)
+  * Resize Images without losing important information [link](https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%202/results/P5_results/tower_removal.mp4)
+
+<!-- ![putin video](https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%202/results/P5_results/Remove%20Putin%20low.mp4) -->
