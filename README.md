@@ -102,4 +102,5 @@ By Gholamreza Dar Spring/Summer 2022
 
 - Image Morphing
   * Morph an image into another using delaunay triangulation and linear interpolation
+  view the video on [youtube](https://youtube.com/shorts/L_4-CcccTY8?si=EnSIkaIECMiOmarE)
  <img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%204/results/P4/Morphing_poster.png?raw=true"/>
