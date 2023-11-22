@@ -28,7 +28,7 @@ By Gholamreza Dar Spring/Summer 2022
 
   * Find hidden information in images
 
-<img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/552.png?raw=true"/>
+<img style="width:401px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/552.png?raw=true"/>
 
 - Pacman
 
