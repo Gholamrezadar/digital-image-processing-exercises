@@ -32,13 +32,13 @@ By Gholamreza Dar Spring/Summer 2022
 
 - Pacman
 
-  * Simulate pacman using image processing techniques and tools.
+  * Simulate Pacman using image processing techniques and tools.
 
 <img src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%201/results/pacman_gif.gif?raw=true"/>
 
 ## Exercise 2
 
-- Pedestrain Detection
+- Pedestrian Detection
 
   * Frame_2 - Frame_1 = Movement!
 
@@ -63,7 +63,7 @@ By Gholamreza Dar Spring/Summer 2022
 
 - Fourier Analysis
 
-  * Match the shapes present in the images and patterns in their fourier magnitude image
+  * Match the shapes present in the images and patterns in their Fourier magnitude image
 
 <img style="width:700px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%203/results/P3_Results/painting_8_fourier_analysis.png?raw=true"/>
 
