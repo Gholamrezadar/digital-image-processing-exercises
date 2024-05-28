@@ -5,10 +5,10 @@ By Gholamreza Dar Spring/Summer 2022
 
 # Content
 - Table of Contents
-  * [Exercise 1](#exercise-1)
-  * [Exercise 2](#exercise-2)
-  * [Exercise 3](#exercise-3)
-  * [Exercise 4](#exercise-4)
+  * [Exercise 1](#exercise-1) [Face Symmetry, Climate Change, Steganography, Pacman with OpenCV]
+  * [Exercise 2](#exercise-2) [Pedestrian/Motion Detection, Bilateral Filtering Poster, Seam Carving]
+  * [Exercise 3](#exercise-3) [Fourier Analysis, Hybrid Image Generation with frequency separation]
+  * [Exercise 4](#exercise-4) [Image Restoration, Perspective Transform, Face Morphing with Delaunay Triangulation]
 
 ## Exercise 1
 
