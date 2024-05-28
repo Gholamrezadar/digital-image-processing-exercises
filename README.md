@@ -56,6 +56,8 @@ By Gholamreza Dar Spring/Summer 2022
   * Remove Objects and people from images [link](https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%202/results/P5_results/Remove%20Putin%20low.mp4)
   * Remove Putin from an Image [youtube link](https://youtube.com/shorts/1KCj4KXU10M?feature=share)
   * Resize Images without losing important information [link](https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%202/results/P5_results/tower_removal.mp4)
+ 
+    <img style="width:400px" src="https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/dc1e121a2b32eee15c562f9454bc194a928b3873/Exercise%202/results/P5_results/seam_carving_demo.png"/>
 
 <!-- ![putin video](https://github.com/Gholamrezadar/digital-image-processing-exercises/blob/main/Exercise%202/results/P5_results/Remove%20Putin%20low.mp4) -->
 
